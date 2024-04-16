@@ -5,6 +5,7 @@ Aruino sketch manages the communication between face detection algorithm and Ard
 
 python libraries are in [pip commands.txt](https://github.com/omargkandil/Face-Tracking-using-Python/blob/main/Python-face-tracking/pip%20commands.txt).
 
+[Operation Video](https://youtu.be/vvwyoxV09I4).
+
 ![Alt Text](https://github.com/omargkandil/Face-Tracking-using-Python/blob/main/Python-face-tracking/Photos/2023_12_23_16_07_IMG_5436.JPG?raw=true)
 
-[Operation Video](https://youtu.be/vvwyoxV09I4)
